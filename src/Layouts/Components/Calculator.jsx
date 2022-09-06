@@ -7,7 +7,7 @@ class Calculator extends Component {
   render() {
     return (
       <div className="container">
-        <input type="text" value={0} className='text-box'/>
+        <input type="text" value={0} className="text-box" />
         <div className="grid-container">
           <button className="btn">AC</button>
           <button className="btn">+/-</button>
