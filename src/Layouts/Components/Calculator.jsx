@@ -1,9 +1,6 @@
 import React, { Component } from "react";
 import "../Assets/calculator.css";
 class Calculator extends Component {
-  constructor(props) {
-    super(props);
-  }
   render() {
     return (
       <div className="container">
