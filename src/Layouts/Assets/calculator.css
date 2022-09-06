@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  width: 410px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.btn {
+  height: 50px;
+  border: none;
+  margin: 0 0 2px;
+  border-right: 1px solid white;
+}
+
+.btn:hover {
+  background-color: #b6b4b4;
+  cursor: pointer;
+  color: white;
+}
+
+.btn-orange {
+  background-color: orange;
+}
+
+.btn-orange:hover {
+  background-color: rgb(216, 167, 75);
+  color: white;
+}
+
+.btn-block {
+  grid-column: 1/3;
+}
+
+.text-box {
+  height: 50px;
+  background-color: #c9c6c6;
+  color: white;
+  font-size: 20px;
+  border: none;
+  padding: 5px;
+  outline-style: none;
+  text-align: end;
+  width: 409px;
+}
