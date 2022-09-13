@@ -1,8 +1,6 @@
-import React from "react";
-import Calculator from "./Layouts/Components/Calculator";
+import React from 'react';
+import Routers from './Routers';
 
-const App = () => {
-  return <Calculator />;
-};
+const App = () => <Routers />;
 
 export default App;
