@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: column;
   margin: 10px;
-  width: 410px;
+  width: 510px;
 }
 
 .grid-container {
@@ -45,5 +45,5 @@
   padding: 5px;
   outline-style: none;
   text-align: end;
-  width: 409px;
+  width: 509px;
 }
