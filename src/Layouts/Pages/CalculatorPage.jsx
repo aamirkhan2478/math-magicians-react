@@ -4,7 +4,7 @@ import Calculator from '../Components/Calculator';
 const CalculatorPage = () => {
   const centerContent = {
     display: 'flex',
-    justifyContent: 'space-between',
+    justifyContent: 'space-evenly',
     alignItems: 'center',
     margin: '100px',
   };
