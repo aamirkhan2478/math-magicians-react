@@ -15,7 +15,10 @@ This is simple react web application we use some different functions to calculat
 ![calculator-page](src/Layouts/Assets/images/ScreenShots/calculator-page.png)
 
 ### Quote Page
-![](src/Layouts/Assets/images/ScreenShots/quote-page.png)
+![quote-page](src/Layouts/Assets/images/ScreenShots/quote-page.png)
+
+## Live Preview
+[Live Demo](https://my-math-magicians.netlify.app/)
 
 ## Getting Started
 
