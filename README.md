@@ -5,6 +5,17 @@ This is simple react web application we use some different functions to calculat
 ## Built With
 
 - React JS
+- React Router Dom
+
+## Screen Shots
+### Home Page
+![home-page](src/Layouts/Assets/images/ScreenShots/home-page.png)
+
+### Calculator Page
+![calculator-page](src/Layouts/Assets/images/ScreenShots/calculator-page.png)
+
+### Quote Page
+![](src/Layouts/Assets/images/ScreenShots/quote-page.png)
 
 ## Getting Started
 
