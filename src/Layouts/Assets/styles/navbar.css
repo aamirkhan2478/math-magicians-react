@@ -36,6 +36,7 @@ nav {
   border-radius: 5px;
   background-color: #e67e22;
   padding: 8px;
+  transition: all 0.3s ease; 
 }
 
 .active {
